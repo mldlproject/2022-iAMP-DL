@@ -1,6 +1,6 @@
 # iAMP-DL: Identifying short antimicrobial peptides using long short-term memory incorporated with convolutional neural networks
 
-#### Q. H. Nguyen, T-H Nguyen-Vo, Loc Nguyen, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
+#### Q. H. Nguyen, T-H Nguyen-Vo, Loc Nguyen, Trang T. T. Do, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 ![alt text](https://github.com/mldlproject/2022-iAMP-DL/blob/main/iAMP_DL_abs.svg)
 
