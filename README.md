@@ -1,6 +1,6 @@
-# iANP-EC: Identifying Anticancer Natural Products using Ensemble Learning Incorporated with Evolutionary Computing
+# iAMP-DL: Identifying short antimicrobial peptides using long short-term memory incorporated with convolutional neural networks
 
-#### L. Nguyen, T-H Nguyen-Vo, Q. H. Trinh, B. H. Nguyen, P-U. Nguyen-Hoang, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
+#### Q. H. Nguyen, T-H Nguyen-Vo, Loc Nguyen, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 ![alt text](https://github.com/mldlproject/2021-iANP-EC/blob/main/iANP-EC_abs.svg)
 
@@ -28,10 +28,10 @@ that have essential impacts on acting as anticancer agents.
 
 
 ## Availability and implementation
-Source code and data are available upon request. 
+[Click here](https://github.com/quangnhbk/antimicrobialpeptides)
 
 ## Web-based Application
-[Click here](http://103.130.219.193:5003/)
+[Click here](http://45.117.83.253/problem_amp)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
