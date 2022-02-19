@@ -5,26 +5,17 @@
 ![alt text](https://github.com/mldlproject/2021-iANP-EC/blob/main/iANP-EC_abs.svg)
 
 ## Motivation
-Cancer is one of the most deadly diseases that annually kill millions of people
-worldwide. The investigation on anticancer medicines has never ceased to seek better
-and more adaptive ones with fewer side effects. Besides chemically synthetic anticancer
-drugs, natural products are scientifically proved as a highly potential alternative source
-for anticancer drug discovery. Along with experimental approaches to find anticancer
- drug candidates, computational approaches have been developed to virtually screen
-for potential anticancer compounds. Most of current computational approaches, however, focus on
-anticancer activity of peptides only. In this study, we construct an ensemble computational framework 
-called iANP-EC using machine learning approaches incorporated with evolutionary computing. 
-Four learning algorithms (k-NN, SVM, RF, and XGB) are used incorporated with four molecular representation 
-schemes to build a set of classifiers, among which the top-four best-performing classifiers are selected 
-to form an ensemble classifier. The proposed ensemble model uses a set of weights that are
-tuned with respect to the ROC-AUC measure using Particle Swarm Optimization. The number of curated 
-chemical data used is 1011 samples collected from the NPACT and CancerHSP databases.
+Short-length AMPs have been demonstrated to have intensified antimicrobial activities toward wider spectrums of microbes. Therefore, 
+exploration of novel and promising short AMPs is highly essential in developing various types of antimicrobial drugs or treatments. 
+Besides, experimental approaches, several computational approaches have been developed to improve screening efficiency. Although these 
+existing computational methods achieved satisfactory performance, there is a large room for model improvement. In this study, we proposed 
+iAMP-DL, a prediction framework for identifying short AMPs. The model was constructed using long short-term memory incorporated with 
+convolutional neural networks. To fairly assess the model performance, we compare our models with the existing state-of-the-art methods.
 
 ## Results
-The results show that iANP-EC is a stable, robust, and effective framework which achieves a 
-ROC-AUC of 0.8812 and a PR-AUC of 0.8446. The comparative analysis of molecular substructures 
-between natural anticarcinogen and non-anticarcinogen partially unveil several key substructures 
-that have essential impacts on acting as anticancer agents.
+The comparative analysis's results confirmed iAMP-DL's performance outperformed all existing state-of-the-art methods. Furthermore, the experiments 
+were repeated ten times to observe the variation in the prediction efficiency of our proposed method. The results demonstrated that the iAMP-DL is 
+an effective, robust, and stable framework that can be used to detect promising short-AMP.
 
 
 ## Availability and implementation
