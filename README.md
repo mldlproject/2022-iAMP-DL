@@ -18,7 +18,7 @@ an effective, robust, and stable framework that can be used to detect promising 
 
 
 ## Availability and implementation
-[Click here](https://github.com/quangnhbk/antimicrobialpeptides)
+[Click here](https://github.com/quangnhbk/antimicrobial-peptides)
 
 ## Web-based Application
 [Click here](http://45.117.83.253/problem_amp)
